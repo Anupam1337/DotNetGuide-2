@@ -1,0 +1,438 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\DOTNET\\DotNetGuide\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|g:\\dotnet\\dotnetguide\\commonnew\\commonnew.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|solutionrelative:commonnew\\commonnew.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465E89BC-F8C4-4878-AC46-0D4366BAA7DA}|Client\\Client.csproj|g:\\dotnet\\dotnetguide\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465E89BC-F8C4-4878-AC46-0D4366BAA7DA}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCFC61-E666-4EB9-8C4B-AB00503B6999}|Common\\Common.csproj|g:\\dotnet\\dotnetguide\\common\\common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D0BCFC61-E666-4EB9-8C4B-AB00503B6999}|Common\\Common.csproj|solutionrelative:common\\common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|g:\\dotnet\\dotnetguide\\commonnew\\connectionmanagement\\connectionpoolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|solutionrelative:commonnew\\connectionmanagement\\connectionpoolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|g:\\dotnet\\dotnetguide\\commonnew\\orm\\ormfacadeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|solutionrelative:commonnew\\orm\\ormfacadeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|g:\\dotnet\\dotnetguide\\commonnew\\dataaccess\\entityframeworkqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|solutionrelative:commonnew\\dataaccess\\entityframeworkqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|g:\\dotnet\\dotnetguide\\commonnew\\utilities\\configurationreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|solutionrelative:commonnew\\utilities\\configurationreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|g:\\dotnet\\dotnetguide\\commonnew\\middleware\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|solutionrelative:commonnew\\middleware\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|g:\\dotnet\\dotnetguide\\commonnew\\middleware\\requestvalidationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|solutionrelative:commonnew\\middleware\\requestvalidationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|g:\\dotnet\\dotnetguide\\commonnew\\tools\\logginghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|solutionrelative:commonnew\\tools\\logginghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|g:\\dotnet\\dotnetguide\\commonnew\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|solutionrelative:commonnew\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|g:\\dotnet\\dotnetguide\\commonnew\\models\\connectionoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|solutionrelative:commonnew\\models\\connectionoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|g:\\dotnet\\dotnetguide\\commonnew\\models\\querymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|solutionrelative:commonnew\\models\\querymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|g:\\dotnet\\dotnetguide\\commonnew\\orm\\querycachingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|solutionrelative:commonnew\\orm\\querycachingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|g:\\dotnet\\dotnetguide\\commonnew\\utilities\\utilityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|solutionrelative:commonnew\\utilities\\utilityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|g:\\dotnet\\dotnetguide\\commonnew\\tools\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|solutionrelative:commonnew\\tools\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|g:\\dotnet\\dotnetguide\\commonnew\\orm\\ormconnectionadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|solutionrelative:commonnew\\orm\\ormconnectionadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|g:\\dotnet\\dotnetguide\\commonnew\\middleware\\responseformattingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|solutionrelative:commonnew\\middleware\\responseformattingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|g:\\dotnet\\dotnetguide\\commonnew\\dataaccess\\iqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|solutionrelative:commonnew\\dataaccess\\iqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|g:\\dotnet\\dotnetguide\\commonnew\\dataaccess\\dapperqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|solutionrelative:commonnew\\dataaccess\\dapperqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|g:\\dotnet\\dotnetguide\\commonnew\\connectionmanagement\\postgresqlconnectionbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|solutionrelative:commonnew\\connectionmanagement\\postgresqlconnectionbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|g:\\dotnet\\dotnetguide\\commonnew\\connectionmanagement\\mysqlconnectionbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|solutionrelative:commonnew\\connectionmanagement\\mysqlconnectionbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|g:\\dotnet\\dotnetguide\\commonnew\\connectionmanagement\\mssqlconnectionbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|solutionrelative:commonnew\\connectionmanagement\\mssqlconnectionbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|g:\\dotnet\\dotnetguide\\commonnew\\connectionmanagement\\iconnectionbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|solutionrelative:commonnew\\connectionmanagement\\iconnectionbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|g:\\dotnet\\dotnetguide\\commonnew\\connectionmanagement\\databaseconnectionregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F492B2-A23B-49E3-AE98-53EB0D221ACD}|CommonNew\\CommonNew.csproj|solutionrelative:commonnew\\connectionmanagement\\databaseconnectionregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BCFC61-E666-4EB9-8C4B-AB00503B6999}|Common\\Common.csproj|g:\\dotnet\\dotnetguide\\common\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BCFC61-E666-4EB9-8C4B-AB00503B6999}|Common\\Common.csproj|solutionrelative:common\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EntityFrameworkQueryService.cs",
+              "DocumentMoniker": "G:\\DOTNET\\DotNetGuide\\CommonNew\\DataAccess\\EntityFrameworkQueryService.cs",
+              "RelativeDocumentMoniker": "CommonNew\\DataAccess\\EntityFrameworkQueryService.cs",
+              "ToolTip": "G:\\DOTNET\\DotNetGuide\\CommonNew\\DataAccess\\EntityFrameworkQueryService.cs",
+              "RelativeToolTip": "CommonNew\\DataAccess\\EntityFrameworkQueryService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAjwBAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:32:46.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrmFacadeService.cs",
+              "DocumentMoniker": "G:\\DOTNET\\DotNetGuide\\CommonNew\\ORM\\OrmFacadeService.cs",
+              "RelativeDocumentMoniker": "CommonNew\\ORM\\OrmFacadeService.cs",
+              "ToolTip": "G:\\DOTNET\\DotNetGuide\\CommonNew\\ORM\\OrmFacadeService.cs",
+              "RelativeToolTip": "CommonNew\\ORM\\OrmFacadeService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAD4vxAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:36:14.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Common.csproj",
+              "DocumentMoniker": "G:\\DOTNET\\DotNetGuide\\Common\\Common.csproj",
+              "RelativeDocumentMoniker": "Common\\Common.csproj",
+              "ToolTip": "G:\\DOTNET\\DotNetGuide\\Common\\Common.csproj",
+              "RelativeToolTip": "Common\\Common.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-17T16:27:36.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommonNew.csproj",
+              "DocumentMoniker": "G:\\DOTNET\\DotNetGuide\\CommonNew\\CommonNew.csproj",
+              "RelativeDocumentMoniker": "CommonNew\\CommonNew.csproj",
+              "ToolTip": "G:\\DOTNET\\DotNetGuide\\CommonNew\\CommonNew.csproj",
+              "RelativeToolTip": "CommonNew\\CommonNew.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-17T16:27:37.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConnectionPoolManager.cs",
+              "DocumentMoniker": "G:\\DOTNET\\DotNetGuide\\CommonNew\\ConnectionManagement\\ConnectionPoolManager.cs",
+              "RelativeDocumentMoniker": "CommonNew\\ConnectionManagement\\ConnectionPoolManager.cs",
+              "ToolTip": "G:\\DOTNET\\DotNetGuide\\CommonNew\\ConnectionManagement\\ConnectionPoolManager.cs",
+              "RelativeToolTip": "CommonNew\\ConnectionManagement\\ConnectionPoolManager.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwB8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:30:07.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\DOTNET\\DotNetGuide\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "G:\\DOTNET\\DotNetGuide\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T23:24:01.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConfigurationReader.cs",
+              "DocumentMoniker": "G:\\DOTNET\\DotNetGuide\\CommonNew\\Utilities\\ConfigurationReader.cs",
+              "RelativeDocumentMoniker": "CommonNew\\Utilities\\ConfigurationReader.cs",
+              "ToolTip": "G:\\DOTNET\\DotNetGuide\\CommonNew\\Utilities\\ConfigurationReader.cs",
+              "RelativeToolTip": "CommonNew\\Utilities\\ConfigurationReader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:37:19.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoggingMiddleware.cs",
+              "DocumentMoniker": "G:\\DOTNET\\DotNetGuide\\CommonNew\\Middleware\\LoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "CommonNew\\Middleware\\LoggingMiddleware.cs",
+              "ToolTip": "G:\\DOTNET\\DotNetGuide\\CommonNew\\Middleware\\LoggingMiddleware.cs",
+              "RelativeToolTip": "CommonNew\\Middleware\\LoggingMiddleware.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T23:47:40.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RequestValidationMiddleware.cs",
+              "DocumentMoniker": "G:\\DOTNET\\DotNetGuide\\CommonNew\\Middleware\\RequestValidationMiddleware.cs",
+              "RelativeDocumentMoniker": "CommonNew\\Middleware\\RequestValidationMiddleware.cs",
+              "ToolTip": "G:\\DOTNET\\DotNetGuide\\CommonNew\\Middleware\\RequestValidationMiddleware.cs",
+              "RelativeToolTip": "CommonNew\\Middleware\\RequestValidationMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:44:38.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoggingHelper.cs",
+              "DocumentMoniker": "G:\\DOTNET\\DotNetGuide\\CommonNew\\Tools\\LoggingHelper.cs",
+              "RelativeDocumentMoniker": "CommonNew\\Tools\\LoggingHelper.cs",
+              "ToolTip": "G:\\DOTNET\\DotNetGuide\\CommonNew\\Tools\\LoggingHelper.cs",
+              "RelativeToolTip": "CommonNew\\Tools\\LoggingHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:35:02.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "G:\\DOTNET\\DotNetGuide\\CommonNew\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "CommonNew\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "G:\\DOTNET\\DotNetGuide\\CommonNew\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "CommonNew\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAMwBgAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T23:16:38.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConnectionOptions.cs",
+              "DocumentMoniker": "G:\\DOTNET\\DotNetGuide\\CommonNew\\Models\\ConnectionOptions.cs",
+              "RelativeDocumentMoniker": "CommonNew\\Models\\ConnectionOptions.cs",
+              "ToolTip": "G:\\DOTNET\\DotNetGuide\\CommonNew\\Models\\ConnectionOptions.cs",
+              "RelativeToolTip": "CommonNew\\Models\\ConnectionOptions.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:34:04.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "QueryModel.cs",
+              "DocumentMoniker": "G:\\DOTNET\\DotNetGuide\\CommonNew\\Models\\QueryModel.cs",
+              "RelativeDocumentMoniker": "CommonNew\\Models\\QueryModel.cs",
+              "ToolTip": "G:\\DOTNET\\DotNetGuide\\CommonNew\\Models\\QueryModel.cs",
+              "RelativeToolTip": "CommonNew\\Models\\QueryModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:34:19.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QueryCachingService.cs",
+              "DocumentMoniker": "G:\\DOTNET\\DotNetGuide\\CommonNew\\ORM\\QueryCachingService.cs",
+              "RelativeDocumentMoniker": "CommonNew\\ORM\\QueryCachingService.cs",
+              "ToolTip": "G:\\DOTNET\\DotNetGuide\\CommonNew\\ORM\\QueryCachingService.cs",
+              "RelativeToolTip": "CommonNew\\ORM\\QueryCachingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:36:40.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UtilityHelper.cs",
+              "DocumentMoniker": "G:\\DOTNET\\DotNetGuide\\CommonNew\\Utilities\\UtilityHelper.cs",
+              "RelativeDocumentMoniker": "CommonNew\\Utilities\\UtilityHelper.cs",
+              "ToolTip": "G:\\DOTNET\\DotNetGuide\\CommonNew\\Utilities\\UtilityHelper.cs",
+              "RelativeToolTip": "CommonNew\\Utilities\\UtilityHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:37:42.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ExceptionHandler.cs",
+              "DocumentMoniker": "G:\\DOTNET\\DotNetGuide\\CommonNew\\Tools\\ExceptionHandler.cs",
+              "RelativeDocumentMoniker": "CommonNew\\Tools\\ExceptionHandler.cs",
+              "ToolTip": "G:\\DOTNET\\DotNetGuide\\CommonNew\\Tools\\ExceptionHandler.cs",
+              "RelativeToolTip": "CommonNew\\Tools\\ExceptionHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:35:12.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrmConnectionAdapter.cs",
+              "DocumentMoniker": "G:\\DOTNET\\DotNetGuide\\CommonNew\\ORM\\OrmConnectionAdapter.cs",
+              "RelativeDocumentMoniker": "CommonNew\\ORM\\OrmConnectionAdapter.cs",
+              "ToolTip": "G:\\DOTNET\\DotNetGuide\\CommonNew\\ORM\\OrmConnectionAdapter.cs",
+              "RelativeToolTip": "CommonNew\\ORM\\OrmConnectionAdapter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:36:28.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ResponseFormattingMiddleware.cs",
+              "DocumentMoniker": "G:\\DOTNET\\DotNetGuide\\CommonNew\\Middleware\\ResponseFormattingMiddleware.cs",
+              "RelativeDocumentMoniker": "CommonNew\\Middleware\\ResponseFormattingMiddleware.cs",
+              "ToolTip": "G:\\DOTNET\\DotNetGuide\\CommonNew\\Middleware\\ResponseFormattingMiddleware.cs",
+              "RelativeToolTip": "CommonNew\\Middleware\\ResponseFormattingMiddleware.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwBcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T23:18:38.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IQueryService.cs",
+              "DocumentMoniker": "G:\\DOTNET\\DotNetGuide\\CommonNew\\DataAccess\\IQueryService.cs",
+              "RelativeDocumentMoniker": "CommonNew\\DataAccess\\IQueryService.cs",
+              "ToolTip": "G:\\DOTNET\\DotNetGuide\\CommonNew\\DataAccess\\IQueryService.cs",
+              "RelativeToolTip": "CommonNew\\DataAccess\\IQueryService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:32:17.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DapperQueryService.cs",
+              "DocumentMoniker": "G:\\DOTNET\\DotNetGuide\\CommonNew\\DataAccess\\DapperQueryService.cs",
+              "RelativeDocumentMoniker": "CommonNew\\DataAccess\\DapperQueryService.cs",
+              "ToolTip": "G:\\DOTNET\\DotNetGuide\\CommonNew\\DataAccess\\DapperQueryService.cs",
+              "RelativeToolTip": "CommonNew\\DataAccess\\DapperQueryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:32:35.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PostgreSqlConnectionBuilder.cs",
+              "DocumentMoniker": "G:\\DOTNET\\DotNetGuide\\CommonNew\\ConnectionManagement\\PostgreSqlConnectionBuilder.cs",
+              "RelativeDocumentMoniker": "CommonNew\\ConnectionManagement\\PostgreSqlConnectionBuilder.cs",
+              "ToolTip": "G:\\DOTNET\\DotNetGuide\\CommonNew\\ConnectionManagement\\PostgreSqlConnectionBuilder.cs",
+              "RelativeToolTip": "CommonNew\\ConnectionManagement\\PostgreSqlConnectionBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:29:45.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MySqlConnectionBuilder.cs",
+              "DocumentMoniker": "G:\\DOTNET\\DotNetGuide\\CommonNew\\ConnectionManagement\\MySqlConnectionBuilder.cs",
+              "RelativeDocumentMoniker": "CommonNew\\ConnectionManagement\\MySqlConnectionBuilder.cs",
+              "ToolTip": "G:\\DOTNET\\DotNetGuide\\CommonNew\\ConnectionManagement\\MySqlConnectionBuilder.cs",
+              "RelativeToolTip": "CommonNew\\ConnectionManagement\\MySqlConnectionBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:38:21.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MsSqlConnectionBuilder.cs",
+              "DocumentMoniker": "G:\\DOTNET\\DotNetGuide\\CommonNew\\ConnectionManagement\\MsSqlConnectionBuilder.cs",
+              "RelativeDocumentMoniker": "CommonNew\\ConnectionManagement\\MsSqlConnectionBuilder.cs",
+              "ToolTip": "G:\\DOTNET\\DotNetGuide\\CommonNew\\ConnectionManagement\\MsSqlConnectionBuilder.cs",
+              "RelativeToolTip": "CommonNew\\ConnectionManagement\\MsSqlConnectionBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:39:44.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IConnectionBuilder.cs",
+              "DocumentMoniker": "G:\\DOTNET\\DotNetGuide\\CommonNew\\ConnectionManagement\\IConnectionBuilder.cs",
+              "RelativeDocumentMoniker": "CommonNew\\ConnectionManagement\\IConnectionBuilder.cs",
+              "ToolTip": "G:\\DOTNET\\DotNetGuide\\CommonNew\\ConnectionManagement\\IConnectionBuilder.cs",
+              "RelativeToolTip": "CommonNew\\ConnectionManagement\\IConnectionBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:39:18.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DatabaseConnectionRegistry.cs",
+              "DocumentMoniker": "G:\\DOTNET\\DotNetGuide\\CommonNew\\ConnectionManagement\\DatabaseConnectionRegistry.cs",
+              "RelativeDocumentMoniker": "CommonNew\\ConnectionManagement\\DatabaseConnectionRegistry.cs",
+              "ToolTip": "G:\\DOTNET\\DotNetGuide\\CommonNew\\ConnectionManagement\\DatabaseConnectionRegistry.cs",
+              "RelativeToolTip": "CommonNew\\ConnectionManagement\\DatabaseConnectionRegistry.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:31:20.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\DOTNET\\DotNetGuide\\Common\\Program.cs",
+              "RelativeDocumentMoniker": "Common\\Program.cs",
+              "ToolTip": "G:\\DOTNET\\DotNetGuide\\Common\\Program.cs",
+              "RelativeToolTip": "Common\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T12:43:25.1Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
